@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">measurementConv2</string>
+    <string name="kilometer">Kilometers</string>
+    <string name="miles_1">Miles</string>
+</resources>
